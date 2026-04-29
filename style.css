@@ -6,7 +6,9 @@ body {
 }
 h1 {
     font-size: 1.25em;
-    justify-content: center;
+h1 {
+    font-size: 1.25em;
+    align-items: center;
 }   
 
 h2 {
