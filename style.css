@@ -37,8 +37,12 @@ i {
     margin-right: .5em;
 }
 
+li {
+    margin-bottom: 0.5 px;
+}
+
 p {
-    margin: .2em auto
+    margin-bottom: 0.5 px;
 }
 
 hr {
