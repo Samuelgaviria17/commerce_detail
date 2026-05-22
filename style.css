@@ -19,6 +19,7 @@ h2 {
 h3 {
     font-size: 1.05em;
     padding-top: 0.50em;
+    margin-bottom: 0.1em;
 }
 
 main { 
@@ -41,7 +42,7 @@ i {
 
 li {
     font-size: 1.10em;
-    margin-bottom: 0.6em;
+    margin-bottom: 0.2em;
 }
 
 p {
