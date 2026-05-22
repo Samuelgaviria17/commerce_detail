@@ -49,6 +49,13 @@ p {
     font-size: 1.10em;
     margin-bottom: 0.6em;
 }
+div{
+    margin-bottom: 0em;
+}
+
+span{
+    margin-bottom: 0em;
+}
 
 hr {
     border: none;
